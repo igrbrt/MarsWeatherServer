@@ -12,17 +12,17 @@
 1. Download the project
 
 #### ====== CHOOSE ONE OF THESE STEPS TO RUN ======
-2. Inside the release folder there is MarsWeatherServer.war
-    2.1. Start Tomcat Server Application (bin/startup) 
-    2.2. Open Console (http://localhost:8080/manager)
-    2.3. Deploy MarsWeatherServer.war by console
+2. Inside the release folder there is MarsWeatherServer.war  
+  2.1. Start Tomcat Server Application (tomcat/bin/startup)  
+  2.2. Open Console (http://localhost:8080/manager)  
+  2.3. Deploy MarsWeatherServer.war by console  
     
 ![deploy](https://user-images.githubusercontent.com/3952551/73770268-e3a39a00-475a-11ea-8413-b942645b36a0.PNG)
 
 #### OR
 
-2. Open with Eclipse IDE
-    2.1. Deploy into Tomcat Server Application by Eclipse
+2. Open with Eclipse IDE  
+  2.1. Deploy into Tomcat Server Application by Eclipse  
 #### ==============================================
 
 3. Download [Advanced REST Client](https://install.advancedrestclient.com/install)
