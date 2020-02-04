@@ -14,3 +14,7 @@
     5.1. Request URL: http://localhost:8080/MarsWeatherServer/nasa/temperature
     #### To get average temperature of a particular SOL (ex: 418)
     5.2. Request URL: http://localhost:8080/MarsWeatherServer/nasa/temperature?sol=418
+
+![no given SOL](https://user-images.githubusercontent.com/3952551/73750825-a16b6000-473c-11ea-921b-8136fb1555c0.PNG)
+
+![sol 418](https://user-images.githubusercontent.com/3952551/73750946-df688400-473c-11ea-96c6-dba973259933.PNG)
