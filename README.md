@@ -6,7 +6,19 @@
 #### Follow the steps to use this API:
 
 1. Download the project
-2. Deploy into Tomcat Server
+
+#### ====== CHOOSE ONE OF THESE STEPS ======
+2. Inside the release folder there is MarsWeatherServer.war
+    2.1. Start Tomcat Server Application (bin/startup) 
+    2.2. Open Console (http://localhost:8080/manager)
+    2.3. Deploy MarsWeatherServer.war by console
+
+#### OR
+
+2. Open with Eclipse IDE
+    2.1. Deploy into Tomcat Server Application by Eclipse
+#### ========================
+
 3. Download [Advanced REST Client](https://install.advancedrestclient.com/install)
 4. Choose Method GET
 5. Now you can choose two requests forms:
