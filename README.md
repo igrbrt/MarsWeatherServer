@@ -1,4 +1,4 @@
-## Mars Weather Temperature
+## Mars Weather Temperature Service API
 
 #### Simple API to get Mars temperature information
 #### More information are available at https://mars.nasa.gov/insight/weather/
