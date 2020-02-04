@@ -4,8 +4,8 @@
 #### More information are available at https://mars.nasa.gov/insight/weather/
 
 ## Requirements
-Java 1.8
-Tomcat v7.0 Server (minimum)
+#### Java 1.8
+#### Tomcat v7.0 Server (minimum)
 
 #### Follow the steps to use this API:
 
